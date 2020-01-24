@@ -64,4 +64,4 @@ if(message.author.bot) return;
 }
 });
 
-bot.login(botSettings.NjcwMjYxMjA5MTEwNDEzMzIz.XirzhA.wVlRg_lsUXDLqJzGEd64AA6_RJM);
+bot.login(botSettings.token);
